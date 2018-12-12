@@ -1,0 +1,851 @@
+﻿,title,date,country,genre,rate
+0,The Abandoned Project X,27 September 2013 (USA),USA,"['Action', 'Sci-Fi']",1.0
+1,Tysyacha,Thriller,Russia,[],1.0
+2,Ushikoku ni mairu,14 November 2015 (Japan),Japan,"['Action', 'Drama']",1.0
+3,Bloody Massacre,4 July 2016 (Russia),Russia,"['Drama', 'Horror']",1.0
+4,Forest Tragedy,8 July 2016 (Russia),Russia,['Horror'],1.0
+5,Mstitel chelovechestva,31 October 2016 (Russia),Russia,"['Action', 'Horror']",1.0
+6,Ya vas vsyekh ub'yu,6 December 2016 (Russia),Russia,"['Drama', 'Horror']",1.0
+7,Who Killed Red,October 2017 (USA),USA,"['Drama', 'Horror']",1.0
+8,Maldito Amor,23 October 2014 (Chile),Chile,"['Comedy', 'History']",1.1
+9,Delusion of Persecution,6 July 2016 (Russia),Russia,"['Comedy', 'Drama']",1.1
+10,Prigorodskiy potroshitel 6. Naslediye,22 May 2016 (Russia),Russia,['Horror'],1.1
+11,Potroshitel iz prigoroda,15 July 2016 (Russia),Russia,['Horror'],1.1
+12,Vozmezdiye,27 September 2016 (Russia),Russia,"['Drama', 'Horror']",1.1
+13,Chains of Mephistopheles 2,30 September 2017 (Russia),Russia,['Horror'],1.1
+14,Attack of Monster,3 July 2016 (Russia),Russia,"['Comedy', 'Drama']",1.2
+15,Neznakomka,4 August 2016 (Russia),Russia,"['Drama', 'Horror']",1.2
+16,Vosstavshiy iz myortvykh,17 October 2016 (Russia),Russia,"['Drama', 'Horror']",1.2
+17,The Living Dead,22 March 2017 (Russia),Russia,"['Action', 'Horror']",1.2
+18,Tayna slendermena. Vsya istoriya,28 March 2017 (Russia),Russia,['Horror'],1.2
+19,Ninja the Monster,20 February 2016 (Japan),Japan,"['Action', 'Adventure']",1.3
+20,Krolik Black,2 August 2016 (Russia),Russia,"['Drama', 'Horror']",1.3
+21,Smolensk,9 September 2016 (Poland),Poland,['Drama'],1.3
+22,Tumors 2,11 June 2013 (Russia),Russia,"['Drama', 'Horror']",1.3
+23,Bloody Forest,5 July 2016 (Russia),Russia,"['Drama', 'Horror']",1.4
+24,Devil's Drain,Mystery,Italy,['Fantasy'],1.4
+25,Shark Exorcist,14 August 2015 (USA),USA,"['Action', 'Comedy']",1.5
+26,Domo,12 March 2015 (Greece),Spain,['Horror'],1.5
+27,Rise of the Dark,31 July 2015 (Russia),Russia,"['Horror', 'Mystery']",1.5
+28,Raiders of the Lost Shark,19 May 2015 (USA),USA,"['Action', 'Adventure']",1.6
+29,Beyond the Call to Duty,June 2016 (USA),USA,"['Action', 'Drama']",1.7
+30,The Forbidden Dimensions,Thriller,USA,['Horror'],1.7
+31,Krampus: The Christmas Devil,21 August 2017 (USA),USA,"['Action', 'Horror']",1.7
+32,Jurassic Prey,23 June 2015 (USA),USA,"['Action', 'Adventure']",1.7
+33,Krampus: The Devil Returns,4 October 2016 (USA),USA,"['Action', 'Horror']",1.7
+34,Tera Intezaar,1 December 2017 (India),India,['Romance'],1.7
+35,Opasnost' ryadom,29 November 2016 (Russia),Russia,"['Drama', 'Horror']",1.8
+36,Dead Forest,23 March 2017 (Russia),Russia,['Horror'],1.8
+37,Disaster Wars: Earthquake vs. Tsunami,13 December 2013 (Philippines),USA,"['Action', 'Drama']",1.9
+38,Ostra randka,30 August 2013 (Poland),Poland,[],1.9
+39,Joker's Wild,June 2016 (USA),USA,['Horror'],1.9
+40,Angela Markado,2 December 2015 (Philippines),Philippines,"['Action', 'Crime']",1.9
+41,Apio Verde,July 2013 (Chile),Chile,"['Drama', 'Horror']",2.0
+42,The Taking,13 April 2013 (Australia),USA,['Horror'],2.0
+43,Attila,31 December 2013 (USA),USA,"['Action', 'Horror']",2.0
+44,The Beast in Heat,Thriller,USA,['Drama'],2.0
+45,KÃ¼'fa: Cin Kapani,16 October 2015 (Turkey),Turkey,['Horror'],2.0
+46,Independents' Day,7 June 2016 (USA),USA,"['Action', 'Adventure']",2.0
+47,Pigeon Tango,6 October 2017 (Taiwan),Taiwan,['Crime'],2.0
+48,Alongside Night,Drama,USA,['Action'],2.1
+49,Voiceless,2015 (USA),USA,['Drama'],2.1
+50,Jackpot,13 December 2013 (India),India,['Comedy'],2.1
+51,Viktorville,30 December 2017 (USA),USA,['Horror'],2.1
+52,Pokhishchenie,11 June 2013 (Russia),Russia,[],2.1
+53,Toni,1 March 2015 (USA),USA,['Action'],2.1
+54,Nightmare in Russia,19 February 2017 (Russia),Russia,"['Action', 'Adventure']",2.1
+55,The Omnipotence of Dreams,Horror,USA,['Comedy'],2.1
+56,The Night Watchman,11 December 2017 (USA),Italy,[],2.1
+57,Zombex,26 October 2013 (USA),USA,"['Horror', 'Sci-Fi']",2.2
+58,500 MPH Storm,1 November 2013 (Canada),USA,"['Action', 'Adventure']",2.2
+59,Subconscious,10 March 2015 (USA),USA,"['Action', 'Mystery']",2.2
+60,American Poltergeist,29 May 2015 (USA),USA,['Horror'],2.2
+61,Samrajyam II: Son of Alexander,5 May 2015 (India),India,"['Action', 'Crime']",2.2
+62,Zombies Have Fallen,1 April 2017 (UK),UK,['Action'],2.2
+63,Sharkenstein,16 August 2016 (USA),USA,"['Action', 'Adventure']",2.2
+64,Dizlayk,22 September 2016 (Russia),Russia,"['Comedy', 'Horror']",2.2
+65,Tian ji: Fu chun shan ju tu,12 June 2013 (Hong Kong),China,"['Action', 'Adventure']",2.3
+66,Avalanche Sharks,1 January 2014 (Canada),Canada,"['Action', 'Adventure']",2.3
+67,Amnesiac,1 March 2013 (UK),UK,"['Drama', 'Horror']",2.3
+68,Dead Rivalry,2014 (Canada),Canada,['Horror'],2.3
+69,A Twisted Tale,6 April 2017 (USA),,"['Comedy', 'Horror']",2.3
+70,Martian Land,6 October 2015 (USA),USA,"['Action', 'Adventure']",2.3
+71,Complitation of Horror,13 May 2017 (Russia),Russia,"['Action', 'Adventure']",2.3
+72,American Weapon,16 January 2014 (Germany),USA,['Horror'],2.4
+73,Jurassic Attack,10 March 2016 (South Korea),USA,"['Action', 'Adventure']",2.4
+74,Gas Light,15 September 2018 (USA),USA,"['Horror', 'Mystery']",2.4
+75,100 Degrees Below Zero,13 April 2013 (USA),USA,"['Action', 'Adventure']",2.4
+76,Haunting of the Innocent,1 February 2014 (USA),USA,['Horror'],2.4
+77,Territory 8,1 May 2013 (USA),USA,"['Drama', 'Sci-Fi']",2.4
+78,Assignment,21 October 2013 (UK),UK,['Thriller'],2.4
+79,Apocalypse Pompeii,8 January 2016 (India),USA,"['Action', 'Adventure']",2.4
+80,5 Seasons,2 May 2015 (Germany),Germany,[],2.4
+81,The Broken Key,16 November 2017 (Italy),Italy,"['History', 'Sci-Fi']",2.4
+82,Man zhou li lai de ren,25 March 2015 (Hong Kong),China,"['Crime', 'Drama']",2.4
+83,Hajwala,29 September 2016 (United Arab Emirates),United Arab Emirates,"['Action', 'Adventure']",2.4
+84,The Crossbreed,6 March 2018 (USA),USA,['Horror'],2.4
+85,Oceans Rising,17 January 2017 (UK),USA,"['Action', 'Adventure']",2.4
+86,The Fast and the Fierce,1 April 2017 (Poland),USA,['Action'],2.4
+87,Gialli,10 July 2015 (Russia),Russia,"['Crime', 'Horror']",2.4
+88,The Secret Village,16 October 2013 (Sweden),USA,"['Horror', 'Mystery']",2.5
+89,Razors: The Return of Jack the Ripper,8 May 2017 (UK),UK,"['Fantasy', 'Horror']",2.5
+90,You Will Love Me,31 August 2013 (USA),USA,"['Horror', 'Mystery']",2.5
+91,Scream at the Devil,2 March 2016 (USA),USA,['Mystery'],2.5
+92,Poseidon Rex,10 January 2014 (India),USA,"['Action', 'Adventure']",2.5
+93,The Library,3 May 2014 (UK),UK,['Horror'],2.5
+94,Fire Twister,21 June 2015 (Netherlands),USA,"['Action', 'Adventure']",2.5
+95,2047: Sights of Death,24 July 2014 (Italy),Italy,"['Action', 'Sci-Fi']",2.5
+96,Abandoned Dead,4 November 2015 (USA),USA,"['Crime', 'Horror']",2.5
+97,Kadavul Paathi Mirugam Paathi,20 March 2015 (India),India,['Action'],2.5
+98,Cowboy,15 February 2013 (India),India,['Action'],2.5
+99,The Doll,8 December 2017 (USA),USA,"['Fantasy', 'Horror']",2.5
+100,Start Again,Thriller,Italy,[],2.5
+101,The Brides of Sodom,29 January 2013 (USA),USA,"['Fantasy', 'Horror']",2.6
+102,Fractured,17 April 2015 (USA),USA,"['Drama', 'Horror']",2.6
+103,Hansel & Gretel: Warriors of Witchcraft,22 January 2013 (USA),USA,"['Action', 'Adventure']",2.6
+104,Slink,14 June 2013 (USA),USA,['Horror'],2.6
+105,The Merchant,3 March 2013 (USA),UK,"['Drama', 'Horror']",2.6
+106,Silverhide,6 April 2015 (UK),UK,"['Horror', 'Mystery']",2.6
+107,Kerat 14,14 February 2013 (Malaysia),Malaysia,['Action'],2.6
+108,Mega Shark vs. Mecha Shark,28 January 2014 (USA),USA,"['Action', 'Adventure']",2.6
+109,LA Apocalypse,7 May 2015 (Germany),USA,"['Action', 'Sci-Fi']",2.6
+110,Blood Relatives,20 November 2014 (USA),USA,[],2.6
+111,Jogo do Copo,July 2014 (Brazil),Brazil,"['Fantasy', 'Horror']",2.6
+112,Gu dao jing hun 2,26 January 2013 (China),China,"['Drama', 'Fantasy']",2.6
+113,Adhibar,28 August 2015 (India),India,['Action'],2.6
+114,Girls,28 October 2016 (India),India,['Horror'],2.6
+115,Sinsiran: Yasak ask,26 May 2017 (Turkey),Turkey,"['Drama', 'Horror']",2.6
+116,Kiss and Kill,8 August 2017 (USA),USA,"['Drama', 'Mystery']",2.6
+117,Labirynt swiadomosci,24 November 2017 (Poland),Poland,[],2.6
+118,Shortcut Romeo,21 June 2013 (India),India,"['Action', 'Crime']",2.7
+119,36 Saints,6 September 2013 (USA),USA,[],2.7
+120,Alienate,5 May 2017 (USA),USA,"['Drama', 'Horror']",2.7
+121,Dark Minds,30 September 2013 (USA),USA,[],2.7
+122,Pearl: The Assassin,June 2015 (USA),USA,"['Action', 'Crime']",2.7
+123,Midway - Tra la vita e la morte,11 April 2013 (Italy),Italy,['Horror'],2.7
+124,Freshwater,26 February 2016 (Taiwan),USA,[],2.7
+125,Mob Handed,13 June 2016 (UK),UK,[],2.7
+126,Ridge War Z,5 November 2013 (USA),USA,"['Horror', 'Thriller']",2.7
+127,Camp Blood First Slaughter,20 May 2014 (USA),USA,['Horror'],2.7
+128,Morning Star,17 December 2015 (Bahrain),Italy,"['Action', 'Adventure']",2.7
+129,Full English Breakfast,7 April 2014 (UK),UK,"['Action', 'Crime']",2.7
+130,He Who Dares: Downing Street Siege,24 August 2015 (Netherlands),UK,"['Action', 'Crime']",2.7
+131,On the Brain,12 July 2016 (USA),USA,"['Crime', 'Horror']",2.7
+132,The Final Project,4 March 2016 (USA),USA,['Horror'],2.7
+133,Bhadaas,27 December 2013 (India),India,[],2.7
+134,Trip to Bhangarh: Asia's Most Haunted Place,28 August 2014 (India),India,['Horror'],2.7
+135,La Secta,30 October 2014 (Argentina),Argentina,['Mystery'],2.7
+136,Alkarisi: Cinnet,26 June 2015 (Turkey),Turkey,['Horror'],2.7
+137,Kamara Kattu,22 May 2015 (India),India,"['Drama', 'Romance']",2.7
+138,Canvas of Death,1 February 2016 (USA),USA,['Horror'],2.7
+139,Realms Hunt for the Shadow Man,20 January 2016 (USA),USA,"['Action', 'Horror']",2.7
+140,Sowkarpettai,4 March 2016 (India),India,['Horror'],2.7
+141,We All Fall Down,12 August 2016 (USA),USA,"['Adventure', 'Drama']",2.7
+142,Antisocial.app,21 March 2017 (USA),USA,[],2.7
+143,Machine,17 March 2017 (India),India,"['Action', 'Mystery']",2.7
+144,Election Night,13 October 2017 (USA),USA,['Horror'],2.7
+145,This Old Machine,14 November 2017 (USA),USA,[],2.7
+146,Alligator X,16 April 2014 (Belgium),USA,"['Action', 'Adventure']",2.8
+147,"The Darkness, Rage and the Fury",February 2014 (USA),USA,"['Horror', 'Sci-Fi']",2.8
+148,Deewana Main Deewana,1 February 2013 (India),India,"['Comedy', 'Romance']",2.8
+149,The Borderland,11 November 2014 (USA),France,['Action'],2.8
+150,20 Ft Below: The Darkness Descending,21 January 2016 (Kuwait),USA,[],2.8
+151,The Quarantine Hauntings,26 January 2015 (Australia),Australia,['Horror'],2.8
+152,Onus,26 December 2016 (UK),UK,"['Drama', 'Mystery']",2.8
+153,Mumbai 125 KM 3D,17 October 2014 (India),India,"['Drama', 'Horror']",2.8
+154,The Warp,2014 (USA),USA,['Horror'],2.8
+155,Battle for Skyark,24 June 2017 (Australia),USA,"['Action', 'Adventure']",2.8
+156,After Midnight,28 October 2014 (USA),USA,['Mystery'],2.8
+157,Battered,December 2014 (Bahamas),USA,"['Comedy', 'Crime']",2.8
+158,Angel of Reckoning,20 September 2016 (USA),USA,"['Action', 'Horror']",2.8
+159,Dracula's Angel,10 October 2014 (USA),USA,"['Animation', 'Horror']",2.8
+160,But Deliver Us from Evil,27 April 2017 (USA),USA,['Horror'],2.8
+161,Das kalte Gericht,19 June 2015 (Germany),Germany,[],2.8
+162,Forced to Kill,2016 (USA),,[],2.8
+163,Mega Shark vs. Kolossus,16 July 2015 (Germany),USA,"['Action', 'Adventure']",2.8
+164,Seytan-i Racim 2: Ifrit,5 June 2015 (Turkey),Turkey,['Horror'],2.8
+165,Cupid's Guillotine,14 February 2017 (USA),USA,"['Drama', 'Mystery']",2.8
+166,Solus,Thriller,USA,[],2.8
+167,Panteon Woods,Thriller,USA,[],2.8
+168,#FollowFriday,15 September 2016 (USA),USA,[],2.8
+169,Azazil 2: BÃ¼yÃ¼,25 March 2016 (Turkey),Turkey,['Horror'],2.8
+170,Bittersweet Revenge,6 May 2016 (Germany),Germany,[],2.8
+171,#Captured,5 September 2017 (USA),USA,[],2.8
+172,Mind's Eye,2 December 2016 (USA),USA,['Sci-Fi'],2.9
+173,Toxin,30 January 2015 (USA),USA,"['Drama', 'Horror']",2.9
+174,Jonah Lives,18 September 2015 (USA),USA,"['Drama', 'Horror']",2.9
+175,The Underneath,December 2013 (USA),USA,"['Action', 'Sci-Fi']",2.9
+176,Rulers of Darkness,4 November 2014 (Canada),Canada,['Sci-Fi'],2.9
+177,Animus,26 March 2013 (USA),USA,['Horror'],2.9
+178,Sader Ridge,27 November 2014 (Peru),USA,['Horror'],2.9
+179,Age of Dinosaurs,8 October 2015 (Hungary),USA,"['Action', 'Adventure']",2.9
+180,Lokpal,31 January 2013 (India),India,[],2.9
+181,Lost Time,19 September 2014 (USA),USA,"['Horror', 'Sci-Fi']",2.9
+182,Das Werwolfspiel,7 May 2013 (Austria),Austria,"['Horror', 'Mystery']",2.9
+183,Chat,Thriller,USA,['Crime'],2.9
+184,Somnus,4 October 2016 (USA),UK,"['Adventure', 'Sci-Fi']",2.9
+185,The 2nd Law,2016 (USA),USA,['Sci-Fi'],2.9
+186,Checkmate,8 September 2015 (USA),USA,"['Action', 'Crime']",2.9
+187,Psychos,17 March 2017 (USA),USA,"['Crime', 'Drama']",2.9
+188,The Unbidden,22 April 2016 (USA),USA,"['Horror', 'Mystery']",2.9
+189,Deviance,2017 (USA),USA,[],2.9
+190,Odious,2017 (USA),USA,[],2.9
+191,Beiimaan Love,14 October 2016 (India),India,"['Drama', 'Romance']",2.9
+192,Anomaly,Sci-Fi,USA,['Horror'],2.9
+193,Land Shark,27 June 2017 (USA),USA,"['Action', 'Adventure']",2.9
+194,Proklyataya,6 December 2016 (USA),Russia,"['Drama', 'Horror']",2.9
+195,Cats Kill,2017 (USA),USA,[],2.9
+196,It Kills,11 November 2017 (USA),USA,"['Action', 'Horror']",2.9
+197,Haitian Nights,13 August 2013 (USA),USA,[],3.0
+198,Blooming Flowers,13 July 2013 (USA),USA,"['Action', 'Adventure']",3.0
+199,Mara,13 January 2014 (UK),Sweden,"['Horror', 'Mystery']",3.0
+200,Hangman's Game,16 May 2016 (Colombia),Colombia,"['Horror', 'Mystery']",3.0
+201,Sorrow,21 April 2015 (USA),USA,"['Crime', 'Drama']",3.0
+202,Implanted,6 December 2013 (USA),USA,"['Drama', 'Mystery']",3.0
+203,Templar Nation,23 July 2013 (USA),USA,['Adventure'],3.0
+204,The Appearing,25 March 2014 (USA),USA,"['Horror', 'Mystery']",3.0
+205,Dracano,5 June 2013 (Japan),USA,"['Action', 'Adventure']",3.0
+206,Punishment,22 January 2013 (USA),USA,[],3.0
+207,He Who Dares,16 May 2014 (Vietnam),UK,"['Action', 'Crime']",3.0
+208,Haunted House: Demon Poltergeist,1 September 2013 (USA),USA,['Mystery'],3.0
+209,The Son of Raw's the Roman,19 June 2016 (UK),UK,"['Adventure', 'Fantasy']",3.0
+210,Hayride 2,18 March 2016 (Germany),USA,"['Action', 'Horror']",3.0
+211,Wandering Rose,2 June 2015 (USA),UK,['Horror'],3.0
+212,Animus: The Tell-Tale Heart,31 October 2015 (USA),USA,['Horror'],3.0
+213,#Horror,20 November 2015 (USA),USA,"['Drama', 'Horror']",3.0
+214,Friends Don't Let Friends,28 November 2017 (USA),USA,['Horror'],3.0
+215,The Purgation,2 April 2015 (USA),USA,"['Drama', 'Horror']",3.0
+216,The Shadow People,28 February 2017 (USA),USA,[],3.0
+217,Ludo,17 July 2015 (Canada),India,"['Fantasy', 'Horror']",3.0
+218,The Damned Thing,5 December 2014 (USA),USA,['Horror'],3.0
+219,Unwanted Presence,23 September 2014 (USA),USA,[],3.0
+220,Elder Island,2016 (USA),USA,['Horror'],3.0
+221,KillerSaurus,6 July 2015 (UK),UK,"['Action', 'Horror']",3.0
+222,Isolation 119,1 July 2015 (USA),Laos,['Horror'],3.0
+223,Mind and Machine,6 March 2018 (USA),USA,"['Crime', 'Sci-Fi']",3.0
+224,Z/Rex: The Jurassic Dead,24 February 2018 (Japan),USA,"['Action', 'Comedy']",3.0
+225,Abduction,28 June 2017 (UK),UK,"['Action', 'Comedy']",3.0
+226,Prank Week,3 August 2017 (USA),USA,"['Crime', 'Mystery']",3.0
+227,Quiero lo eterno,19 November 2017 (Spain),Spain,['Sci-Fi'],3.0
+228,Raptor Ranch,31 October 2013 (USA),Russia,"['Action', 'Adventure']",3.1
+229,Gemini Rising,26 January 2015 (USA),USA,"['Action', 'Sci-Fi']",3.1
+230,Killer Holiday,5 November 2013 (USA),USA,['Horror'],3.1
+231,Milwood,October 2013 (USA),USA,"['Drama', 'Horror']",3.1
+232,Blackout,6 July 2013 (USA),USA,[],3.1
+233,Dark by Noon,6 May 2013 (UK),Ireland,"['Drama', 'Sci-Fi']",3.1
+234,Left Behind,3 October 2014 (USA),USA,"['Action', 'Drama']",3.1
+235,Rajdhani Express,4 January 2013 (India),India,"['Action', 'Drama']",3.1
+236,Le berceau des ombres,6 July 2015 (UK),France,['Horror'],3.1
+237,Everywhen,28 January 2013 (Norway),Norway,"['Action', 'Sci-Fi']",3.1
+238,The Other Side,25 October 2014 (USA),USA,"['Drama', 'Horror']",3.1
+239,Pedro Calungsod: Batang Martir,25 December 2013 (Philippines),Philippines,"['Biography', 'Crime']",3.1
+240,Dzej Dzej,30 May 2014 (Poland),Poland,"['Comedy', 'Drama']",3.1
+241,Beyond the Dark,31 October 2014 (USA),USA,"['Horror', 'Sci-Fi']",3.1
+242,The Contract,18 January 2016 (UK),UK,"['Action', 'Crime']",3.1
+243,Catatonia,Thriller,USA,['Crime'],3.1
+244,The Dead the Damned and the Darkness,7 October 2014 (USA),USA,"['Action', 'Horror']",3.1
+245,Lily Grace: A Witch Story,3 November 2015 (USA),USA,[],3.1
+246,Clowntergeist,12 September 2017 (USA),USA,"['Crime', 'Horror']",3.1
+247,The Town Inside,14 August 2014 (USA),USA,"['Action', 'Drama']",3.1
+248,Strip Club Massacre,2 May 2017 (USA),USA,['Horror'],3.1
+249,Rudra Simhasanam,31 July 2015 (India),India,['Action'],3.1
+250,Ravenswood,11 March 2017 (USA),Australia,['Horror'],3.1
+251,Drone Wars,30 March 2016 (USA),USA,"['Action', 'Sci-Fi']",3.1
+252,Christmas Apparition,2016 (USA),USA,[],3.1
+253,Breaking Point,11 May 2017 (USA),USA,['Drama'],3.1
+254,Dangerous Lies Vol. 1,1 March 2017 (USA),Italy,[],3.1
+255,Of Silence,14 January 2014 (USA),USA,"['Drama', 'Horror']",3.2
+256,Red Herring,30 October 2015 (USA),USA,"['Crime', 'Drama']",3.2
+257,Awake in the Woods,19 May 2015 (USA),USA,['Horror'],3.2
+258,Lords of London,6 January 2014 (UK),UK,"['Crime', 'Mystery']",3.2
+259,The Ganzfeld Haunting,7 February 2014 (USA),USA,['Horror'],3.2
+260,House of Bad,18 May 2013 (USA),USA,['Horror'],3.2
+261,Huff,5 April 2013 (USA),USA,['Horror'],3.2
+262,Kaufman's Game,20 November 2017 (UK),UK,['Crime'],3.2
+263,In the Name of the King: The Last Mission,26 February 2014 (Japan),Canada,"['Action', 'Adventure']",3.2
+264,Kick,9 January 2015 (USA),UK,"['Drama', 'Horror']",3.2
+265,A Demon in My View,11 July 2013 (USA),USA,['Horror'],3.2
+266,Kamikaze,1 December 2016 (USA),UK,['Action'],3.2
+267,Extinction,12 November 2015 (Peru),UK,"['Action', 'Adventure']",3.2
+268,Nasha,26 July 2013 (India),India,['Drama'],3.2
+269,The Parricidal Effect,2014 (USA),USA,"['Action', 'Adventure']",3.2
+270,Slender,5 April 2016 (USA),USA,[],3.2
+271,Prophecy of Eve,22 July 2014 (USA),USA,['Action'],3.2
+272,The Device,27 September 2014 (USA),USA,"['Horror', 'Sci-Fi']",3.2
+273,Gangster,11 April 2014 (India),India,"['Action', 'Crime']",3.2
+274,Appetites,4 August 2015 (USA),USA,['Horror'],3.2
+275,Dark Beacon,13 October 2017 (USA),UK,['Horror'],3.2
+276,Brooklyn Fever,9 September 2016 (USA),USA,[],3.2
+277,The Man in the Shadows,31 October 2017 (USA),Canada,"['Drama', 'Horror']",3.2
+278,Project Eden: Vol. I,5 January 2018 (UK),USA,"['Mystery', 'Sci-Fi']",3.2
+279,The Perfect Weapon,9 September 2016 (USA),USA,"['Action', 'Drama']",3.2
+280,Lailaa O Lailaa,14 May 2015 (India),India,['Action'],3.2
+281,Prisoners of Time,January 2016 (Switzerland),Canada,"['Action', 'Drama']",3.2
+282,Atomic Shark,5 November 2016 (USA),USA,"['Action', 'Sci-Fi']",3.2
+283,Ezan,1 May 2015 (Turkey),Turkey,['Horror'],3.2
+284,Cinayet-i Ask,28 July 2017 (Turkey),Turkey,"['Fantasy', 'Horror']",3.2
+285,Curse of the Siren,8 October 2016 (USA),USA,[],3.2
+286,Ghost Shark 2: Urban Jaws,27 June 2015 (New Zealand),New Zealand,"['Drama', 'Fantasy']",3.3
+287,Blaze You Out,30 July 2013 (USA),USA,"['Action', 'Drama']",3.3
+288,Phobia,1 September 2013 (USA),USA,['Horror'],3.3
+289,Chill: The Killing Games,22 September 2015 (USA),USA,"['Horror', 'Mystery']",3.3
+290,Windsor Drive,28 August 2015 (USA),USA,['Mystery'],3.3
+291,Rabid Love,19 April 2013 (USA),USA,['Horror'],3.3
+292,Zanjeer,6 September 2013 (India),India,['Action'],3.3
+293,Black Water Creek,22 July 2014 (USA),USA,"['Crime', 'Horror']",3.3
+294,Isabel,9 May 2013 (Czech Republic),Czech Republic,"['Drama', 'Fantasy']",3.3
+295,Let Me Out,7 March 2015 (USA),USA,['Horror'],3.3
+296,Intruder,24 June 2016 (USA),USA,"['Horror', 'Mystery']",3.3
+297,Field Freak,4 May 2016 (Germany),USA,"['Comedy', 'Horror']",3.3
+298,Project 12: The Bunker,8 January 2016 (Japan),Spain,"['Action', 'Adventure']",3.3
+299,Altered Perception,4 May 2018 (USA),USA,"['Fantasy', 'Mystery']",3.3
+300,The Asian Connection,13 May 2016 (USA),Thailand,"['Action', 'Crime']",3.3
+301,Fireangels: A Drifter's Fury,23 June 2017 (USA),USA,['Horror'],3.3
+302,Quadrant 9EV9,1 March 2016 (USA),USA,"['Action', 'Horror']",3.3
+303,Devilish Charm,1 May 2014 (USA),USA,[],3.3
+304,A Haunting in Cawdor,11 March 2016 (USA),USA,['Horror'],3.3
+305,The Lost Generation,11 November 2013 (UK),UK,[],3.3
+306,What's Eating Todd?,27 July 2016 (USA),USA,['Horror'],3.3
+307,24 Hours,29 September 2015 (USA),USA,['Action'],3.3
+308,The Xpose,16 May 2014 (India),India,[],3.3
+309,Muska,25 July 2014 (Turkey),Turkey,"['Drama', 'Horror']",3.3
+310,Survival Instinct,13 June 2016 (UK),UK,"['Action', 'Horror']",3.3
+311,Ayla,21 September 2017 (Sweden),USA,"['Drama', 'Fantasy']",3.3
+312,We Are Monsters,May 2015 (Spain),Sweden,"['Drama', 'Horror']",3.3
+313,Soul Fray,18 October 2016 (USA),USA,[],3.3
+314,Don't Sleep,29 September 2017 (USA),USA,['Horror'],3.3
+315,Check Point,7 March 2017 (USA),USA,"['Action', 'Thriller']",3.3
+316,Mihrez: Cin Padisahi,17 April 2015 (Turkey),Turkey,['Horror'],3.3
+317,O Amuleto,28 May 2015 (Brazil),Brazil,[],3.3
+318,Teenage Slumber Party Nightmare,12 July 2015 (USA),Canada,"['Comedy', 'Horror']",3.3
+319,The Last Supper,9 May 2014 (India),India,"['Adventure', 'Mystery']",3.3
+320,Den of Darkness,20 February 2016 (USA),USA,['Horror'],3.3
+321,Hunting Season,7 June 2016 (USA),USA,[],3.3
+322,Peigal Jaakkirathai,1 January 2016 (India),India,"['Comedy', 'Horror']",3.3
+323,Zoombies,1 March 2016 (USA),USA,"['Action', 'Adventure']",3.3
+324,Protocol 734,30 October 2016 (USA),USA,['Action'],3.3
+325,Valliyum Thetti Pulliyum Thetti,12 May 2016 (India),India,"['Action', 'Comedy']",3.3
+326,The 13th Friday,10 January 2017 (USA),USA,['Horror'],3.3
+327,China Salesman,16 June 2017 (China),China,"['Action', 'Adventure']",3.3
+328,Roofied,11 November 2017 (UK),UK,['Drama'],3.3
+329,Ashley,13 January 2017 (India),India,[],3.3
+330,Kalo Bhromor,Thriller,India,[],3.3
+331,Vacant House,2016 (USA),USA,"['Drama', 'Horror']",3.4
+332,Spiders 3D,21 February 2013 (Malaysia),USA,"['Horror', 'Sci-Fi']",3.4
+333,Dead Sea,4 November 2017 (Canada),USA,"['Action', 'Adventure']",3.4
+334,Alone,25 November 2014 (USA),USA,"['Horror', 'Mystery']",3.4
+335,Report 51,21 November 2013 (Spain),Italy,['Sci-Fi'],3.4
+336,Desecrated,6 January 2015 (USA),USA,['Horror'],3.4
+337,Stag Hunt,16 May 2015 (USA),UK,"['Adventure', 'Comedy']",3.4
+338,White Rabbit,13 February 2015 (USA),USA,"['Crime', 'Drama']",3.4
+339,Dark Power,9 July 2013 (USA),USA,[],3.4
+340,Gitaskog,Horror,Canada,['Action'],3.4
+341,Love of my Life,10 November 2013 (USA),Australia,['Horror'],3.4
+342,Ditch,2016 (USA),USA,['Horror'],3.4
+343,Girl in Woods,3 June 2016 (USA),USA,"['Drama', 'Horror']",3.4
+344,Copiii: The 1st Entry,18 June 2014 (Philippines),USA,"['Drama', 'Fantasy']",3.4
+345,Dominion,14 September 2015 (UK),USA,"['Action', 'Sci-Fi']",3.4
+346,Independence Daysaster,27 June 2013 (USA),Canada,"['Action', 'Adventure']",3.4
+347,Following the Wicca Man,29 November 2013 (UK),UK,"['Horror', 'Mystery']",3.4
+348,Death Factory,2014 (USA),USA,"['Fantasy', 'Horror']",3.4
+349,Run Like Hell,9 September 2014 (USA),USA,"['Action', 'Horror']",3.4
+350,"A.D.N., l'Ã¢me de la terre",10 September 2014 (France),France,"['Drama', 'Fantasy']",3.4
+351,Ingloda: The Possession Within,25 August 2013 (USA),USA,"['Drama', 'Horror']",3.4
+352,The Bride,1 September 2013 (USA),USA,['Horror'],3.4
+353,Adaline,1 December 2015 (USA),USA,[],3.4
+354,Accident,1 December 2017 (South Africa),South Africa,['Action'],3.4
+355,A Perfect Vacation,7 July 2015 (USA),USA,"['Action', 'Horror']",3.4
+356,Prom Ride,24 April 2015 (USA),USA,['Horror'],3.4
+357,Piranha Sharks,8 August 2018 (USA),USA,"['Action', 'Comedy']",3.4
+358,The Demolisher,27 July 2015 (Canada),Canada,"['Action', 'Horror']",3.4
+359,The Thin Man,5 June 2015 (Australia),Australia,"['Drama', 'Horror']",3.4
+360,Flay,2017 (USA),USA,"['Drama', 'Fantasy']",3.4
+361,Downhill,14 January 2017 (Japan),Chile,"['Action', 'Horror']",3.4
+362,Rough Cut,16 October 2015 (UK),UK,"['Action', 'Crime']",3.4
+363,Crooked & Narrow,June 2016 (USA),USA,"['Crime', 'Drama']",3.4
+364,Invoked,17 August 2015 (Ireland),Ireland,"['Horror', 'Mystery']",3.4
+365,American Descent,17 October 2014 (Canada),Canada,[],3.4
+366,Alarmed,2014 (USA),USA,['Horror'],3.4
+367,Atrocity,14 October 2014 (USA),USA,[],3.4
+368,Other Halves,2016 (USA),USA,"['Comedy', 'Horror']",3.4
+369,Belly of the Bulldog,6 October 2016 (Kuwait),UK,"['Action', 'Horror']",3.4
+370,The Rift: Dark Side of the Moon,28 April 2016 (Serbia),Serbia,"['Horror', 'Sci-Fi']",3.4
+371,Brutal Colors,23 June 2015 (USA),USA,"['Drama', 'Horror']",3.4
+372,No Good Heroes,24 July 2018 (USA),USA,"['Comedy', 'Drama']",3.4
+373,Out of the Shadows,15 November 2018 (Hungary),Australia,[],3.4
+374,"Scaler, Dark Spirit",18 June 2016 (USA),USA,['Horror'],3.4
+375,Vesvese: Cin Tuzagi,2 October 2015 (Turkey),Turkey,['Horror'],3.4
+376,Gassal,18 December 2015 (Turkey),Turkey,['Horror'],3.4
+377,Immigration Game,6 July 2017 (Germany),Germany,"['Action', 'Drama']",3.4
+378,Kattumakkan,12 February 2016 (India),India,[],3.4
+379,Tall Men,31 May 2016 (USA),USA,"['Fantasy', 'Horror']",3.4
+380,It Lives in the Attic,12 November 2016 (USA),USA,[],3.4
+381,Sathya,20 April 2017 (India),India,['Action'],3.4
+382,No Trespassing,9 August 2017 (USA),USA,[],3.4
+383,Exit to Hell,5 November 2013 (USA),USA,"['Action', 'Horror']",3.5
+384,5 Souls,6 August 2013 (USA),USA,['Horror'],3.5
+385,Black Tar Road,28 July 2016 (USA),USA,"['Crime', 'Drama']",3.5
+386,The Culling,15 March 2015 (Kuwait),USA,['Horror'],3.5
+387,Hostage,3 September 2013 (USA),USA,"['Drama', 'Horror']",3.5
+388,The Cure,6 February 2014 (New Zealand),USA,"['Action', 'Sci-Fi']",3.5
+389,Somebodys There,23 April 2015 (Ireland),Ireland,['Horror'],3.5
+390,Finders Keepers: The Root of All Evil,4 April 2013 (USA),USA,"['Action', 'Horror']",3.5
+391,Critical Nexus,13 September 2013 (USA),USA,[],3.5
+392,The Diana Clone,2017 (UK),UK,['Comedy'],3.5
+393,La Petite Mort II,14 September 2014 (Germany),Germany,['Horror'],3.5
+394,The House Across the Street,10 April 2015 (USA),USA,['Horror'],3.5
+395,Model Behaviour,Mystery,Australia,['Action'],3.5
+396,The Conduit,12 April 2016 (USA),USA,['Horror'],3.5
+397,Eden Lodge,24 August 2015 (UK),UK,"['Horror', 'Mystery']",3.5
+398,The Mourning,20 April 2015 (Netherlands),USA,"['Drama', 'Mystery']",3.5
+399,Needlestick,21 February 2017 (USA),USA,['Horror'],3.5
+400,Kantemir,25 August 2015 (USA),USA,['Horror'],3.5
+401,Blood Slaughter Massacre,19 May 2013 (USA),USA,['Horror'],3.5
+402,Yaan,2 October 2014 (India),India,['Action'],3.5
+403,The Channel,18 March 2016 (USA),USA,"['Drama', 'Horror']",3.5
+404,A House Is Not a Home,7 September 2015 (USA),USA,['Horror'],3.5
+405,Hunting the Legend,8 July 2014 (Canada),USA,"['Horror', 'Mystery']",3.5
+406,Bhai,25 October 2013 (India),India,"['Action', 'Comedy']",3.5
+407,Intrusive Behavior,1 June 2013 (USA),USA,"['Crime', 'Drama']",3.5
+408,Station 4,10 February 2014 (USA),USA,"['Action', 'Sci-Fi']",3.5
+409,Ghost Bride,9 July 2014 (Philippines),New Zealand,['Fantasy'],3.5
+410,Sacrament,7 July 2014 (USA),USA,"['Drama', 'Horror']",3.5
+411,Dead Still,6 October 2014 (USA),USA,"['Horror', 'Sci-Fi']",3.5
+412,Jurassic City,29 May 2015 (Germany),USA,"['Action', 'Horror']",3.5
+413,7 Cases,31 July 2015 (UK),UK,"['Crime', 'Drama']",3.5
+414,Story of Eva,13 January 2015 (USA),USA,['Horror'],3.5
+415,Meat the Jones,Thriller,USA,[],3.5
+416,The Devil Complex,9 May 2016 (UK),UK,['Horror'],3.5
+417,Netru Indru,20 June 2014 (India),India,"['Action', 'Adventure']",3.5
+418,Agoraphobia,11 October 2015 (USA),USA,['Horror'],3.5
+419,10.0 Earthquake,11 October 2014 (USA),USA,"['Action', 'Adventure']",3.5
+420,Honeyspider,18 October 2014 (USA),USA,['Horror'],3.5
+421,Dead Girls,2014 (USA),USA,['Horror'],3.5
+422,The Divine Tragedies,3 October 2015 (USA),USA,"['Drama', 'Horror']",3.5
+423,Earthrise,Thriller,USA,['Drama'],3.5
+424,Slasher.com,16 January 2017 (UK),USA,['Horror'],3.5
+425,Kaaval,26 June 2015 (India),India,[],3.5
+426,Star Leaf,6 June 2015 (USA),USA,"['Horror', 'Sci-Fi']",3.5
+427,Bound,9 January 2015 (USA),USA,['Drama'],3.5
+428,A Room to Die For,16 January 2017 (UK),UK,['Horror'],3.5
+429,Decommissioned,January 2016 (USA),USA,['Action'],3.5
+430,Unhallowed Ground,25 April 2015 (UK),UK,['Horror'],3.5
+431,Wrecker,6 January 2017 (India),Canada,"['Action', 'Horror']",3.5
+432,Zombie Bite,23 October 2017 (USA),USA,['Horror'],3.5
+433,Echo Effect,8 September 2015 (USA),USA,['Action'],3.5
+434,Shark Lake,2 October 2015 (USA),USA,"['Action', 'Adventure']",3.5
+435,The Spiritualist,27 September 2016 (UK),UK,"['Drama', 'Horror']",3.5
+436,Monsoon,20 February 2015 (India),India,"['Comedy', 'Drama']",3.5
+437,The Last Heist,17 June 2016 (USA),USA,"['Action', 'Horror']",3.5
+438,Nocturna,6 October 2015 (USA),USA,['Horror'],3.5
+439,Madmast Barkhaa,3 July 2015 (India),India,['Romance'],3.5
+440,Death Pool,20 June 2017 (USA),USA,[],3.5
+441,Nayaki,15 July 2016 (India),India,"['Comedy', 'Horror']",3.5
+442,Contract to Kill,2016 (USA),Romania,"['Action', 'Adventure']",3.5
+443,Kolamass,4 March 2016 (India),India,['Action'],3.5
+444,Wraith,5 November 2018 (Japan),USA,"['Horror', 'Mystery']",3.5
+445,Zacharia Pothen Jeevichirippundu,3 November 2017 (India),India,[],3.5
+446,The Devil You Know,9 July 2013 (USA),USA,['Mystery'],3.6
+447,Four Assassins,8 January 2013 (Netherlands),Hong Kong,[],3.6
+448,Axe to Grind,3 February 2015 (USA),USA,['Horror'],3.6
+449,Awakened,21 March 2014 (USA),USA,"['Drama', 'Mystery']",3.6
+450,The Shattering,24 March 2015 (USA),USA,[],3.6
+451,Shame the Devil,2 December 2013 (Germany),UK,"['Crime', 'Horror']",3.6
+452,Persecuted,18 July 2014 (USA),USA,"['Action', 'Drama']",3.6
+453,Cruel Will,3 January 2014 (USA),,['Horror'],3.6
+454,California Scheming,31 January 2014 (USA),USA,[],3.6
+455,Serenity Farm,2014 (USA),USA,['Horror'],3.6
+456,The Red House,7 October 2014 (USA),USA,"['Drama', 'Horror']",3.6
+457,The Devil's Dozen,1 February 2013 (USA),USA,"['Horror', 'Mystery']",3.6
+458,The Tell-Tale Heart,5 April 2016 (USA),USA,[],3.6
+459,Dead South,2016 (USA),USA,"['Action', 'Drama']",3.6
+460,Biology 101,7 September 2013 (USA),USA,[],3.6
+461,Zila Ghaziabad,22 February 2013 (India),India,"['Action', 'Crime']",3.6
+462,Pro Wrestlers vs Zombies,28 March 2014 (USA),USA,"['Action', 'Comedy']",3.6
+463,Alice D,3 May 2016 (USA),USA,['Horror'],3.6
+464,Echo Dr.,8 November 2013 (USA),USA,"['Action', 'Drama']",3.6
+465,3G - A Killer Connection,15 March 2013 (India),India,"['Horror', 'Sci-Fi']",3.6
+466,Suddenly,8 August 2013 (Canada),Canada,['Crime'],3.6
+467,Ragin Cajun Redneck Gators,5 September 2013 (USA),USA,['Sci-Fi'],3.6
+468,Ghostline,6 October 2015 (USA),USA,['Horror'],3.6
+469,Area 407: Part Two,27 November 2013 (USA),USA,['Horror'],3.6
+470,The Girl,9 September 2016 (USA),USA,['Sci-Fi'],3.6
+471,Bleed,March 2016 (USA),USA,['Horror'],3.6
+472,Far Cry 3: Last Travel,30 November 2013 (Poland),Poland,"['Action', 'Adventure']",3.6
+473,Beyond Justice,14 October 2014 (USA),USA,['Crime'],3.6
+474,Backtrack,10 February 2015 (UK),UK,['Horror'],3.6
+475,LifeRaft,21 July 2016 (USA),USA,"['Horror', 'Sci-Fi']",3.6
+476,Polos,28 September 2013 (Mexico),Mexico,[],3.6
+477,Jue min hang ban,21 March 2014 (China),China,"['Action', 'Horror']",3.6
+478,The Jokesters,21 July 2015 (USA),USA,"['Comedy', 'Horror']",3.6
+479,Feed the Devil,6 November 2015 (Finland),Canada,"['Adventure', 'Horror']",3.6
+480,JinjÃ¬ youxi zhi mi zang,11 October 2013 (China),China,['Horror'],3.6
+481,The Before Time,8 March 2016 (USA),USA,"['Horror', 'Mystery']",3.6
+482,Deadly Sanctuary,17 February 2017 (USA),USA,"['Family', 'Mystery']",3.6
+483,Elizabeth Bathory,Thriller,USA,['Drama'],3.6
+484,Happy Camp,25 March 2014 (USA),USA,['Horror'],3.6
+485,The Sin Seer,13 October 2015 (USA),USA,['Drama'],3.6
+486,The Evil Gene,September 2015 (USA),USA,['Horror'],3.6
+487,Halloweed,March 2016 (USA),USA,"['Comedy', 'Horror']",3.6
+488,Element,1 April 2016 (USA),USA,[],3.6
+489,Betrothed,8 February 2016 (USA),USA,[],3.6
+490,The Possession Experiment,17 November 2016 (Peru),USA,['Horror'],3.6
+491,The Wicked One,23 April 2017 (USA),USA,['Horror'],3.6
+492,Besetment,6 June 2017 (USA),USA,['Horror'],3.6
+493,Snuff Reel,23 June 2015 (USA),UK,[],3.6
+494,Bury,Thriller,USA,['Fantasy'],3.6
+495,Sendero,12 October 2015 (Spain),Chile,"['Action', 'Drama']",3.6
+496,Redistributors,2 July 2016 (UK),UK,[],3.6
+497,House by the Lake,10 October 2017 (USA),USA,['Horror'],3.6
+498,Fade to White,Thriller,USA,['Fantasy'],3.6
+499,Seclusion,23 October 2015 (USA),USA,"['Horror', 'Mystery']",3.6
+500,The Chosen,24 July 2015 (USA),USA,['Horror'],3.6
+501,All Girls Weekend,12 July 2016 (USA),USA,"['Action', 'Adventure']",3.6
+502,Gamer,4 April 2014 (India),India,[],3.6
+503,Distiller,8 January 2016 (USA),USA,"['Family', 'Horror']",3.6
+504,7 Witches,14 April 2017 (USA),USA,['Horror'],3.6
+505,Uploaded,1 December 2016 (USA),USA,[],3.6
+506,Defective,13 February 2018 (Canada),Canada,"['Action', 'Sci-Fi']",3.6
+507,Drifter,24 February 2017 (USA),USA,"['Crime', 'Horror']",3.6
+508,The Coffin Footage,Thriller,USA,['Horror'],3.6
+509,Dying to Kill,13 December 2016 (USA),USA,['Horror'],3.6
+510,The Haunted House on Kirby Road,9 September 2016 (Canada),Canada,"['Adventure', 'Comedy']",3.6
+511,Larceny,15 September 2017 (USA),USA,['Action'],3.6
+512,The Blood Tapes,Thriller,USA,[],3.6
+513,Sadie,23 February 2018 (Germany),UK,"['Drama', 'Fantasy']",3.6
+514,Cage,1 April 2017 (UK),UK,[],3.6
+515,Brute Sanity,8 March 2017 (USA),USA,['Sci-Fi'],3.6
+516,American Gothic,2017 (USA),USA,['Horror'],3.6
+517,One Under the Sun,14 March 2017 (USA),USA,"['Drama', 'Mystery']",3.6
+518,Dead West,Horror,USA,['Crime'],3.6
+519,Gretchen's Lock,23 April 2016 (USA),USA,[],3.6
+520,Gethu,13 January 2016 (France),India,['Action'],3.6
+521,Swamp Ape,1 January 2017 (USA),USA,"['Adventure', 'Comedy']",3.6
+522,ZÃ¡rtosztÃ¡ly,18 October 2014 (Hungary),Hungary,['Drama'],3.6
+523,PRND,5 September 2017 (USA),USA,[],3.6
+524,Fiends on the Run,30 June 2017 (Australia),Australia,"['Comedy', 'Horror']",3.6
+525,And Then There Was Blood,19 October 2017 (USA),USA,[],3.6
+526,Maximum Ride,30 August 2016 (USA),USA,"['Action', 'Adventure']",3.7
+527,Mala,14 February 2013 (Argentina),Argentina,['Crime'],3.7
+528,Contract Killers,2014 (New Zealand),New Zealand,"['Action', 'Crime']",3.7
+529,BlackJacks,6 September 2016 (USA),USA,"['Action', 'Sci-Fi']",3.7
+530,Distorted,Thriller,UK,['Horror'],3.7
+531,Assumed Killer,1 November 2013 (USA),USA,"['Drama', 'Mystery']",3.7
+532,Holland Road,5 March 2015 (USA),USA,"['Crime', 'Horror']",3.7
+533,The Last Light,1 June 2014 (USA),USA,['Drama'],3.7
+534,Treachery,1 September 2014 (USA),USA,['Drama'],3.7
+535,Aatma,22 March 2013 (India),India,"['Drama', 'Horror']",3.7
+536,Soldiers of the Damned,8 August 2015 (UK),UK,"['Action', 'Horror']",3.7
+537,Kissing Darkness,6 April 2014 (Belgium),USA,"['Comedy', 'Horror']",3.7
+538,Cam2Cam,22 August 2014 (USA),USA,['Horror'],3.7
+539,12 Segundos,30 October 2013 (Guatemala),Guatemala,[],3.7
+540,Abducted,17 March 2014 (UK),UK,['Action'],3.7
+541,Sona Spa,22 March 2013 (India),India,"['Drama', 'Mystery']",3.7
+542,Seventy-Nine,8 June 2017 (USA),USA,"['Action', 'Horror']",3.7
+543,St. Osmund's,May 2013 (USA),USA,"['Drama', 'Horror']",3.7
+544,Cranium Intel,22 May 2016 (USA),USA,"['Animation', 'Action']",3.7
+545,Evangeline,17 April 2015 (Mexico),Canada,"['Fantasy', 'Horror']",3.7
+546,Nocturne Six,26 April 2014 (USA),USA,"['Horror', 'Sci-Fi']",3.7
+547,Lateef,1 January 2013 (India),India,"['Action', 'Crime']",3.7
+548,HazMat,11 March 2014 (USA),USA,['Horror'],3.7
+549,Mississippi Murder,3 January 2017 (USA),USA,"['Crime', 'Mystery']",3.7
+550,Alien Strain,Thriller,USA,['Horror'],3.7
+551,Mr Joe B. Carvalho,3 January 2014 (India),India,"['Comedy', 'Mystery']",3.7
+552,Anna: Scream Queen Killer,September 2013 (USA),UK,['Drama'],3.7
+553,Viktor,4 September 2014 (Russia),France,"['Action', 'Drama']",3.7
+554,The Dooms Chapel Horror,14 June 2016 (USA),USA,"['Horror', 'Mystery']",3.7
+555,The Diplomat Hotel,4 September 2013 (Philippines),Philippines,"['Drama', 'Horror']",3.7
+556,Deadly Intent,11 April 2016 (UK),UK,"['Drama', 'Horror']",3.7
+557,Hypnagogic,2015 (USA),USA,"['Drama', 'Horror']",3.7
+558,Forgotten in Still Frame,20 February 2016 (USA),USA,"['Action', 'Drama']",3.7
+559,Grim Reapers,27 September 2014 (USA),USA,"['Horror', 'Mystery']",3.7
+560,Feed the Gods,26 October 2014 (Canada),Canada,"['Adventure', 'Drama']",3.7
+561,Summit,18 November 2014 (USA),USA,"['Comedy', 'Drama']",3.7
+562,Vigilante 7,14 November 2015 (USA),USA,"['Crime', 'Drama']",3.7
+563,Mindless,June 2014 (USA),USA,[],3.7
+564,Matthew 18,14 November 2014 (USA),USA,[],3.7
+565,Valley of the Sasquatch,7 February 2017 (USA),USA,['Horror'],3.7
+566,Hangar 10,7 November 2014 (USA),UK,"['Horror', 'Sci-Fi']",3.7
+567,Venial,14 April 2014 (USA),USA,"['Drama', 'Horror']",3.7
+568,Buddy Hutchins,20 November 2015 (Germany),USA,['Horror'],3.7
+569,The Shelter,28 August 2015 (UK),Canada,"['Drama', 'Horror']",3.7
+570,Rest Days,Thriller,USA,['Crime'],3.7
+571,The Unfolding,14 March 2016 (UK),UK,"['Horror', 'Mystery']",3.7
+572,Survival Knife,26 January 2016 (USA),USA,['Horror'],3.7
+573,Citrus Springs,17 May 2016 (USA),USA,"['Crime', 'Horror']",3.7
+574,Boned,2016 (USA),USA,"['Action', 'Comedy']",3.7
+575,North Mountain,8 August 2015 (Canada),Canada,"['Action', 'Crime']",3.7
+576,100 Degree Celsius,10 October 2014 (India),India,[],3.7
+577,The Remains,5 August 2016 (USA),USA,['Horror'],3.7
+578,Falsely Accused,24 June 2016 (USA),USA,"['Crime', 'Mystery']",3.7
+579,My Stepdaughter,28 August 2015 (USA),Canada,[],3.7
+580,Crystal Inferno,2017 (France),France,"['Action', 'Adventure']",3.7
+581,The Binding,2 August 2016 (USA),USA,"['Drama', 'Horror']",3.7
+582,Kirmizi,15 May 2015 (Turkey),Turkey,['Drama'],3.7
+583,The Cucaracha Club,10 March 2016 (Spain),Spain,[],3.7
+584,The Z Effect,13 September 2017 (UK),USA,['Horror'],3.7
+585,Killadi,30 January 2015 (India),India,['Action'],3.7
+586,Watch Over Us,5 May 2015 (USA),USA,"['Comedy', 'Drama']",3.7
+587,Ek Paheli Leela,10 April 2015 (India),India,"['Mystery', 'Romance']",3.7
+588,Atop the Fourth Wall: The Movie,24 November 2015 (USA),USA,"['Comedy', 'Sci-Fi']",3.7
+589,The Sound,6 October 2017 (Kuwait),Canada,"['Horror', 'Mystery']",3.7
+590,Sightings,7 November 2017 (USA),USA,"['Adventure', 'Drama']",3.7
+591,The Lake,22 August 2017 (USA),USA,['Horror'],3.7
+592,Inheritance,2 June 2017 (USA),USA,"['Drama', 'Horror']",3.7
+593,Ozark Sharks,30 July 2016 (Poland),USA,"['Action', 'Adventure']",3.7
+594,The Capture,2018 (USA),USA,['Sci-Fi'],3.7
+595,The Hatred,29 November 2017 (Indonesia),USA,['Horror'],3.7
+596,Event Zero,April 2017 (Australia),Australia,"['Action', 'Drama']",3.7
+597,High Heel Homicide,21 April 2017 (USA),USA,[],3.7
+598,Hostage X,2017 (USA),,[],3.7
+599,Botoks,29 September 2017 (Poland),Poland,"['Action', 'Drama']",3.7
+600,Travis,10 May 2016 (USA),USA,"['Horror', 'Sci-Fi']",3.8
+601,Wind Walkers,16 October 2015 (USA),USA,"['Action', 'Horror']",3.8
+602,House of Dust,24 May 2013 (Japan),USA,['Horror'],3.8
+603,The Occupants,13 January 2014 (USA),USA,['Horror'],3.8
+604,AWOL-72,25 September 2015 (USA),USA,['Action'],3.8
+605,Gangs of Tooting Broadway,4 February 2013 (UK),UK,"['Action', 'Crime']",3.8
+606,Treasure Chest of Horrors II,23 April 2013 (USA),USA,"['Comedy', 'Horror']",3.8
+607,The Devil's in the Details,12 March 2013 (USA),USA,[],3.8
+608,The Thing on the Doorstep,2014 (USA),USA,"['Horror', 'Mystery']",3.8
+609,Gutshot Straight,2 December 2014 (USA),USA,['Crime'],3.8
+610,ISRA 88,7 February 2017 (USA),USA,"['Adventure', 'Mystery']",3.8
+611,The Canyons,2 August 2013 (USA),USA,['Drama'],3.8
+612,Beneath,3 May 2013 (USA),USA,['Horror'],3.8
+613,Legendary,1 January 2014 (China),UK,"['Action', 'Adventure']",3.8
+614,Captive,14 May 2013 (USA),Canada,['Action'],3.8
+615,Way of the Wicked,30 April 2014 (China),USA,['Fantasy'],3.8
+616,Something Good: The Mercury Factor,7 November 2013 (Italy),Italy,[],3.8
+617,The Impaler,31 October 2013 (USA),USA,"['Action', 'Horror']",3.8
+618,A Cry from Within,3 April 2014 (USA),USA,"['Horror', 'Mystery']",3.8
+619,Escape from Babylon,Thriller,Trinidad and Tobago,['Action'],3.8
+620,Vennlige mennesker,14 May 2013 (Norway),Norway,[],3.8
+621,Dark Tarot,1 August 2014 (USA),USA,[],3.8
+622,Radio,8 March 2013 (India),India,[],3.8
+623,Death Valley,20 October 2015 (USA),USA,"['Crime', 'Drama']",3.8
+624,City of Dead Men,15 November 2014 (USA),USA,['Horror'],3.8
+625,Throwback,2014 (Australia),Australia,"['Action', 'Adventure']",3.8
+626,Nero infinito,23 May 2013 (Italy),Italy,[],3.8
+627,Hacker's Game,25 March 2015 (France),France,"['Drama', 'Romance']",3.8
+628,The Carrier,26 January 2017 (UK),UK,"['Action', 'Drama']",3.8
+629,Lazarus Rising,Drama,USA,['Action'],3.8
+630,Excess Flesh,13 March 2015 (USA),USA,['Drama'],3.8
+631,Silent Retreat,12 January 2016 (USA),USA,"['Horror', 'Mystery']",3.8
+632,Psympatico,Thriller,USA,['Drama'],3.8
+633,Everglades,2016 (USA),USA,[],3.8
+634,Black Road,28 January 2016 (USA),USA,['Sci-Fi'],3.8
+635,Mr. X,17 April 2015 (India),India,"['Action', 'Crime']",3.8
+636,Ice Cream,12 July 2014 (India),India,['Horror'],3.8
+637,The Offering,6 May 2016 (USA),Singapore,"['Drama', 'Horror']",3.8
+638,Braxton,3 July 2017 (UK),UK,"['Horror', 'Mystery']",3.8
+639,The Honor Farm,10 March 2017 (USA),USA,[],3.8
+640,Lycan,4 August 2017 (USA),USA,['Horror'],3.8
+641,North v South,16 October 2015 (UK),UK,[],3.8
+642,Robot World,4 December 2015 (USA),UK,['Sci-Fi'],3.8
+643,Ice Cream 2,21 November 2014 (India),,['Horror'],3.8
+644,Scathing,15 November 2016 (USA),USA,['Horror'],3.8
+645,Huanhun Zhi Mishi Mangu,26 December 2014 (China),China,['Horror'],3.8
+646,Good Bad & Ugly,13 December 2013 (India),India,['Drama'],3.8
+647,Ostzone,27 August 2016 (Germany),Germany,['Horror'],3.8
+648,Armed Response,9 August 2017 (Philippines),USA,"['Action', 'Horror']",3.8
+649,Onnam Loka Mahayudham,6 March 2015 (India),India,[],3.8
+650,Lyst,21 April 2017 (Norway),Norway,"['Horror', 'Mystery']",3.8
+651,Darkweb,8 March 2016 (USA),USA,['Action'],3.8
+652,Silver Woods,12 September 2017 (USA),USA,['Mystery'],3.8
+653,Hellcat's Revenge,1 March 2017 (USA),USA,"['Action', 'Crime']",3.8
+654,Carnivore: Werewolf of London,30 July 2018 (UK),UK,['Horror'],3.8
+655,Gremlin,11 January 2017 (Philippines),USA,['Horror'],3.8
+656,Followers,10 July 2017 (UK),USA,[],3.8
+657,Deadly Expose,17 October 2017 (USA),USA,[],3.8
+658,Safe,10 June 2017 (Netherlands),Netherlands,[],3.8
+659,Bloody Murder,15 February 2017 (USA),USA,[],3.8
+660,The Avatar Project,26 May 2017 (USA),Italy,[],3.8
+661,Karam Al King,16 August 2015 (Egypt),Egypt,[],3.8
+662,Simple Creature,25 July 2017 (USA),USA,['Sci-Fi'],3.9
+663,The Oatmeal Man,19 October 2014 (USA),USA,"['Comedy', 'Horror']",3.9
+664,Treehouse,25 June 2015 (South Korea),UK,"['Horror', 'Mystery']",3.9
+665,Kamp,23 April 2013 (Turkey),Turkey,"['Action', 'Drama']",3.9
+666,Roadside,14 April 2015 (USA),USA,"['Drama', 'Horror']",3.9
+667,Porodica,26 December 2015 (Serbia),Serbia,[],3.9
+668,Donors,2 February 2016 (USA),USA,[],3.9
+669,To Hell with a Bullet,17 August 2013 (USA),USA,"['Drama', 'Horror']",3.9
+670,End of a Gun,23 September 2016 (USA),USA,"['Action', 'Crime']",3.9
+671,The Control Group,22 October 2014 (USA),USA,"['Action', 'Horror']",3.9
+672,The Contractor,10 September 2013 (USA),USA,['Crime'],3.9
+673,Dysmorphia,2014 (USA),USA,"['Comedy', 'Horror']",3.9
+674,The Disappointments Room,9 September 2016 (USA),USA,"['Drama', 'Horror']",3.9
+675,Blood Soaked,12 October 2013 (USA),USA,['Horror'],3.9
+676,Criticsized,13 December 2016 (USA),USA,"['Action', 'Crime']",3.9
+677,Dead Within,9 September 2014 (USA),USA,"['Drama', 'Horror']",3.9
+678,Camp Dread,19 May 2014 (UK),USA,"['Horror', 'Mystery']",3.9
+679,The Shadow of Bigfoot,1 January 2013 (UK),UK,[],3.9
+680,Bez doteku,28 March 2013 (Czech Republic),Czech Republic,['Drama'],3.9
+681,A Shameless Revenge,14 February 2013 (USA),USA,[],3.9
+682,The Shadow Behind You,14 October 2015 (USA),USA,"['Crime', 'Mystery']",3.9
+683,Mary Loss of Soul,29 October 2015 (USA),USA,['Horror'],3.9
+684,Gabrielle,1 May 2014 (Germany),USA,['Drama'],3.9
+685,All Hallows Eve: October 30th,16 June 2015 (USA),Canada,['Horror'],3.9
+686,NinetyTwo,15 February 2015 (Germany),Germany,"['Action', 'Adventure']",3.9
+687,Jithan 2,8 April 2016 (India),India,[],3.9
+688,The Hollow One,July 2017 (USA),USA,"['Horror', 'Sci-Fi']",3.9
+689,Geethanjali,10 November 2013 (India),India,[],3.9
+690,The Fear of Darkness,17 November 2016 (Russia),Australia,['Horror'],3.9
+691,Your Move,1 December 2017 (France),USA,"['Crime', 'Drama']",3.9
+692,Kill Kane,18 January 2016 (UK),UK,['Crime'],3.9
+693,El Psiquiatra,29 July 2014 (Venezuela),Venezuela,[],3.9
+694,House of Afflictions,6 April 2017 (UK),UK,['Horror'],3.9
+695,Erasmus,2016 (Spain),Argentina,"['Crime', 'Horror']",3.9
+696,Feast of the Body,25 October 2016 (USA),USA,['Drama'],3.9
+697,Asomatous,24 October 2017 (USA),USA,[],3.9
+698,Hallows Eve,August 2016 (UK),UK,['Horror'],3.9
+699,ClownTown,1 March 2018 (UK),USA,['Horror'],3.9
+700,The Body Tree,13 November 2017 (USA),Russia,['Horror'],3.9
+701,The Summoning,10 January 2017 (Canada),,"['Drama', 'Mystery']",3.9
+702,Better Criminal,3 October 2016 (Turkey),USA,['Action'],3.9
+703,Room: The Mystery,13 March 2015 (India),India,[],3.9
+704,Bie you dong ji,17 September 2015 (China),China,[],3.9
+705,Cartels,7 July 2017 (USA),USA,"['Action', 'Crime']",3.9
+706,Axis,29 September 2017 (USA),USA,['Drama'],3.9
+707,Skinford,March 2017 (Australia),Australia,"['Action', 'Adventure']",3.9
+708,Maskoun,Thriller,Egypt,[],3.9
+709,Red Net,Thriller,Italy,[],3.9
+710,Valley of Ditches,21 March 2017 (USA),USA,"['Crime', 'Drama']",3.9
+711,Connected Killer,March 2016 (USA),USA,"['Drama', 'Horror']",3.9
+712,Bayou Ghost Story,18 April 2017 (USA),USA,"['Drama', 'Horror']",3.9
+713,Where the Skin Lies,26 August 2017 (UK),UK,['Horror'],3.9
+714,Net I Die,1 February 2018 (Hong Kong),Thailand,['Horror'],3.9
+715,Pussy Kills,15 August 2017 (USA),USA,[],3.9
+716,Bigfoot,7 November 2017 (USA),USA,['Horror'],4.0
+717,Jeepers Creepers 3,2 November 2017 (Mexico),USA,"['Action', 'Horror']",4.0
+718,The Haunting of Pearson Place,2 February 2015 (USA),USA,['Horror'],4.0
+719,Martyrs,22 January 2016 (USA),USA,"['Drama', 'Horror']",4.0
+720,Stripped,14 May 2013 (USA),USA,"['Comedy', 'Horror']",4.0
+721,Dragon Day,28 October 2014 (USA),USA,"['Drama', 'Sci-Fi']",4.0
+722,Bedlam,14 April 2015 (USA),Australia,[],4.0
+723,A Resurrection,22 March 2013 (USA),USA,['Horror'],4.0
+724,The Eve,24 April 2015 (USA),USA,['Horror'],4.0
+725,Altergeist,7 November 2014 (USA),USA,"['Horror', 'Sci-Fi']",4.0
+726,The Last Exorcism Part II,9 May 2013 (Hong Kong),France,"['Drama', 'Horror']",4.0
+727,Alicia's Dream,22 September 2017 (Mexico),USA,"['Drama', 'Horror']",4.0
+728,Can't Take It Back,26 October 2017 (USA),USA,"['Horror', 'Sci-Fi']",4.0
+729,Confine,1 July 2013 (UK),UK,[],4.0
+730,Betrayal,3 April 2015 (USA),USA,"['Action', 'Adventure']",4.0
+731,Shallow Creek Cult,18 August 2013 (USA),USA,"['Action', 'Horror']",4.0
+732,AB Negative,26 October 2015 (UK),UK,['Crime'],4.0
+733,Bullets for Jesus,7 July 2015 (USA),USA,"['Action', 'Adventure']",4.0
+734,The Hideout,1 May 2014 (USA),USA,"['Action', 'Horror']",4.0
+735,The Jungle,2013 (Australia),Australia,['Horror'],4.0
+736,Home,March 2016 (USA),USA,"['Drama', 'Horror']",4.0
+737,Jake's Road,23 September 2017 (USA),USA,"['Action', 'Horror']",4.0
+738,The Mark: Redemption,26 March 2013 (Netherlands),USA,"['Action', 'Fantasy']",4.0
+739,Don't Go to the Reunion,9 August 2013 (USA),USA,"['Horror', 'Mystery']",4.0
+740,AfterDeath,19 October 2015 (UK),UK,"['Horror', 'Mystery']",4.0
+741,2 Bedroom 1 Bath,5 September 2014 (USA),USA,"['Horror', 'Mystery']",4.0
+742,Phantom of the Woods,30 June 2013 (USA),USA,"['Drama', 'Horror']",4.0
+743,Bite,20 September 2016 (USA),UK,"['Comedy', 'Crime']",4.0
+744,The Hatching,26 September 2017 (UK),UK,"['Action', 'Comedy']",4.0
+745,Ancient Demon Succubi,14 February 2014 (USA),UK,['Horror'],4.0
+746,Seytan-i racim,13 September 2013 (Turkey),Turkey,['Horror'],4.0
+747,Hooked Up,15 October 2013 (Spain),Spain,"['Comedy', 'Horror']",4.0
+748,Survivor,23 July 2014 (Philippines),USA,"['Action', 'Adventure']",4.0
+749,Brackenmore,2016 (UK),Ireland,"['Horror', 'Mystery']",4.0
+750,Stomping Ground,February 2016 (USA),USA,"['Crime', 'Drama']",4.0
+751,Don't Look in the Basement 2,25 May 2016 (USA),USA,['Horror'],4.0
+752,The Tank,1 June 2017 (USA),USA,[],4.0
+753,Unnatural,16 October 2015 (USA),USA,"['Action', 'Horror']",4.0
+754,Solitude,October 2014 (USA),USA,"['Action', 'Comedy']",4.0
+755,Hope Lost,February 2015 (USA),Italy,['Drama'],4.0
+756,MindGamers,28 March 2017 (USA),Austria,"['Action', 'Sci-Fi']",4.0
+757,Cardinal Matter,8 July 2016 (USA),USA,"['Action', 'Crime']",4.0
+758,Creeper,Thriller,USA,[],4.0
+759,The Stall,5 June 2016 (USA),USA,['Drama'],4.0
+760,Something in the Woods,18 July 2016 (USA),USA,['Family'],4.0
+761,El mal del arriero,19 December 2014 (Spain),Spain,[],4.0
+762,In Residence,Thriller,USA,[],4.0
+763,Strangers Within,24 April 2017 (UK),UK,"['Drama', 'Horror']",4.0
+764,KILD TV,1 March 2016 (USA),USA,['Horror'],4.0
+765,Gun Shy,8 September 2017 (USA),UK,"['Action', 'Adventure']",4.0
+766,Avatharam,1 August 2014 (India),India,"['Action', 'Crime']",4.0
+767,The Emerging Past Director's Cut,28 March 2017 (USA),USA,"['Horror', 'Mystery']",4.0
+768,Luciferous,5 April 2016 (Canada),Canada,"['Drama', 'Horror']",4.0
+769,Red Billabong,25 August 2016 (Australia),Australia,"['Action', 'Comedy']",4.0
+770,One Night of Fear,30 November 2016 (USA),USA,"['Adventure', 'Horror']",4.0
+771,Plan B,2013 (Spain),Spain,[],4.0
+772,Sum1,7 December 2017 (Germany),Germany,"['Horror', 'Sci-Fi']",4.0
+773,Extraction,18 December 2015 (USA),USA,"['Action', 'Adventure']",4.0
+774,Altitude,6 October 2017 (USA),USA,"['Action', 'Crime']",4.0
+775,Bostonian,1 May 2015 (USA),USA,[],4.0
+776,TrÃ­ada,13 October 2016 (Argentina),Argentina,[],4.0
+777,Parasites,24 January 2017 (USA),USA,"['Action', 'Horror']",4.0
+778,Sanctuary,Thriller,USA,[],4.0
+779,Reclusion,23 March 2016 (Australia),USA,[],4.0
+780,DiÃ¡rio de um Exorcista - Zero,25 May 2016 (Brazil),Brazil,['Horror'],4.0
+781,Mandy,24 January 2016 (USA),USA,['Drama'],4.0
+782,Almost Dead,2016 (Italy),Italy,"['Drama', 'Horror']",4.0
+783,"SaudÃ³, laberinto de almas",August 2016 (Colombia),Colombia,"['Horror', 'Mystery']",4.0
+784,5150,Thriller,USA,[],4.0
+785,Raasta,31 March 2017 (Pakistan),Pakistan,"['Action', 'Crime']",4.0
+786,Dear Diary I Died,11 November 2016 (USA),USA,[],4.0
+787,Arsenal,6 January 2017 (USA),USA,"['Action', 'Crime']",4.0
+788,Marshrut postroen,31 March 2016 (Russia),Russia,['Horror'],4.0
+789,Sickhouse,1 June 2016 (USA),USA,['Horror'],4.0
+790,Desaparecer,14 May 2015 (Peru),Peru,[],4.0
+791,Zero City,25 May 2017 (USA),USA,"['Horror', 'Sci-Fi']",4.0
+792,Blood Prism,12 December 2017 (USA),USA,"['Drama', 'Horror']",4.0
+793,GONE,5 June 2017 (USA),USA,['Mystery'],4.0
+794,Alpha Delta Zatan,24 October 2017 (USA),USA,"['Horror', 'Mystery']",4.0
+795,Playing with Dolls: Havoc,18 July 2017 (USA),USA,['Horror'],4.0
+796,The Midnight Matinee,19 May 2017 (USA),USA,"['Horror', 'Mystery']",4.0
+797,Browncoats: Independence War,30 December 2015 (USA),USA,"['Action', 'Sci-Fi']",1.2
+798,Captain Battle: Legacy War,13 January 2013 (India),USA,"['Action', 'Sci-Fi']",1.3
+799,Beyond the Call to Duty,June 2016 (USA),USA,"['Action', 'Drama']",1.7
+800,Firetrail,1 November 2014 (USA),USA,[],1.9
+801,Merajiha,21 February 2014 (Iran),Iran,"['Comedy', 'Drama']",2.2
+802,Ardennes Fury,11 November 2014 (USA),USA,['Action'],2.2
+803,Hooligans at War: North vs. South,13 April 2015 (UK),UK,"['Crime', 'Drama']",2.5
+804,Sector 4,2014 (USA),USA,['Action'],2.5
+805,Zombie Massacre 2: Reich of the Dead,8 June 2015 (UK),Canada,['Horror'],2.5
+806,Ridge War Z,5 November 2013 (USA),USA,"['Horror', 'Thriller']",2.7
+807,P-51 Dragon Fighter,19 August 2014 (USA),USA,"['Action', 'Fantasy']",2.8
+808,Xiao xiao fei hu dui,25 January 2013 (China),China,"['Action', 'Comedy']",2.8
+809,Unfinished Lights,31 January 2017 (Iran),Iran,"['Drama', 'Mystery']",2.9
+810,Cigarette Soup,10 April 2017 (USA),USA,"['Action', 'Drama']",3.1
+811,Pedro Calungsod: Batang Martir,25 December 2013 (Philippines),Philippines,"['Biography', 'Crime']",3.1
+812,Kaukopartio,27 December 2013 (Finland),Finland,"['Action', 'Adventure']",3.2
+813,Check Point,7 March 2017 (USA),USA,"['Action', 'Thriller']",3.3
+814,Sniper: Special Ops,3 May 2016 (USA),USA,"['Action', 'Drama']",3.3
+815,China Salesman,16 June 2017 (China),China,"['Action', 'Adventure']",3.3
+816,Chahar Esfahani dar Baghdad,28 December 2016 (Iran),Iran,"['Comedy', 'Drama']",3.3
+817,Belly of the Bulldog,6 October 2016 (Kuwait),UK,"['Action', 'Horror']",3.4
+818,Misirlou,1 February 2018 (USA),USA,"['Action', 'Fantasy']",3.5
+819,One Shot,7 October 2014 (USA),USA,"['Action', 'Sci-Fi']",3.6
+820,Hymns,Romance,USA,['Drama'],3.6
+821,Historia Roja,4 March 2016 (Poland),Poland,"['Drama', 'History']",3.6
+822,Sierpniowe niebo. 63 dni chwaly,13 September 2013 (Poland),Poland,['Drama'],3.7
+823,Soldiers of the Damned,8 August 2015 (UK),UK,"['Action', 'Horror']",3.7
+824,Winter War,17 January 2018 (France),France,[],3.8
+825,Angel of the Skies,19 November 2013 (Germany),South Africa,[],4.0
+826,Bai tuan da zhan,28 August 2015 (China),China,[],4.0
+827,Ciel rouge,23 August 2017 (France),France,['Drama'],4.0
+828,THE LAST DAYS of BILLY the KID,2017 (USA),USA,[],1.3
+829,Boomtown,5 December 2013 (USA),USA,[],1.6
+830,The Shooting: Story of the Kane Brothers,25 March 2013 (USA),USA,[],1.8
+831,Billy the Kid: Showdown in Lincoln County,1 May 2017 (USA),USA,[],1.8
+832,Calamity Jane's Revenge,25 September 2015 (USA),USA,[],1.8
+833,Alien Showdown: The Day the Old West Stood Still,Horror,USA,['Action'],2.0
+834,The Last Gunslinger,14 November 2017 (USA),USA,[],2.0
+835,Jesse James: Lawman,28 May 2015 (Canada),,[],2.1
+836,The Merchant,3 March 2013 (USA),UK,"['Drama', 'Horror']",2.6
+837,Billy the Kid,27 August 2016 (USA),USA,['Action'],2.6
+838,The Sorrow,7 May 2013 (USA),USA,[],3.0
+839,Western World,11 April 2017 (USA),USA,[],3.2
+840,Dead 7,1 April 2016 (USA),USA,"['Comedy', 'Horror']",3.2
+841,From Hell to the Wild West,26 December 2017 (USA),USA,[],3.2
+842,Six Gun Savior,5 July 2016 (USA),USA,"['Action', 'Adventure']",3.3
+843,Prey for Death,4 August 2015 (USA),USA,[],3.5
+844,One by One,15 November 2016 (USA),Germany,[],3.5
+845,Branded,15 September 2017 (USA),USA,"['Drama', 'Mystery']",3.6
+846,Jezebeth 2 Hour of the Gun,31 May 2015 (USA),USA,"['Action', 'Adventure']",3.7
+847,Stranded,1 June 2014 (USA),USA,[],3.8
+848,Justice,15 September 2017 (USA),USA,[],4.0
+849,Wild Bill Hickok: Swift Justice,31 May 2016 (USA),USA,[],4.0
